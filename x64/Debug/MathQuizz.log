@@ -1,0 +1,3 @@
+﻿  MathQuizz.cpp
+C:\Users\User\Desktop\MyProjects\MyCV\Projects_Course_5\Projects_C_5\MathQuizz\MathQuizz.cpp(197,1): warning C4715: 'GenerateQuestion': not all control paths return a value
+  MathQuizz.vcxproj -> C:\Users\User\Desktop\MyProjects\MyCV\Projects_Course_5\Projects_C_5\x64\Debug\MathQuizz.exe
